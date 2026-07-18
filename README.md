@@ -927,6 +927,12 @@ This list is maintained through automated crawling of GitHub repositories. Our s
 - 📊 **Analyzes** project quality metrics (stars, forks, activity)
 - ✅ **Validates** relevance and functionality
 - 📈 **Updates** statistics and rankings regularly
+---
+
+## Curated Resource Hubs
+
+- **[Scholar Dev Hub](https://github.com/h-abar/scholar-dev-hub)** - Free curated hub of resources, tools, courses & AI Agents guides (MCP, RAG, LangGraph, Ollama, LangSmith) for developers, students, academics & researchers. Bilingual (EN/AR).
+
 
 ## License
 
